@@ -1,7 +1,7 @@
 === Plugin Name ===
 Name: Media Upload Admin Widget
 Contributors: MyWebsiteAdvisor, ChrisHurst
-Tags:  widget, admin, media, upload, photo, image, file
+Tags:  widget, admin, media, upload, photo, image, images, file, plugin, sidebar, Post, posts, page
 Requires at least: 3.0
 Tested up to: 3.5.1
 Stable tag: 1.0
